@@ -1,1 +1,8 @@
-# Big_Data
+![image](https://github.com/kkumar101/Big_Data/assets/142634004/b5897eb7-bced-4879-bcd8-e9eae063460c)
+![image](https://github.com/kkumar101/Big_Data/assets/142634004/5bb2dc15-b14c-449a-a5ec-b1f62a63b290)
+![image](https://github.com/kkumar101/Big_Data/assets/142634004/c3712fa9-d6bb-4913-a464-5cd35e75e9dd)
+![image](https://github.com/kkumar101/Big_Data/assets/142634004/daa3524d-0ba6-4fec-88cd-3b0b232191d6)
+![image](https://github.com/kkumar101/Big_Data/assets/142634004/0d2c028c-4a35-4034-ab13-1f9f37a53577)
+![image](https://github.com/kkumar101/Big_Data/assets/142634004/316ad53e-eae3-457e-b7f8-2d13a4358b8a)
+![image](https://github.com/kkumar101/Big_Data/assets/142634004/f1545edc-88d6-41a1-9700-f3323e847032)
+![image](https://github.com/kkumar101/Big_Data/assets/142634004/41c20d7e-f685-4e6c-84ae-61b8ca24a0f4)
